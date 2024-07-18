@@ -54,7 +54,7 @@ Start the application:
 bash
 Copy code
 dotnet run
-The API will be available at https://localhost:5001.
+The API will be available at https://localhost:7243.
 
 Frontend
 Navigate to the frontend project directory.
